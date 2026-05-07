@@ -1,4 +1,4 @@
-# Miguel Silva
+#⚡ Miguel Silva
 **Desenvolvedor Full-Stack/ Estudante de ADS na FIAP**
 
 Sou estudante da FIAP, programação e desenvolvimento de software. Atualmente estou aprendendo e praticando linguagens como Python, Java, HTML e CSS, sempre buscando evoluir minhas habilidades através de projetos, exercícios e desafios.
