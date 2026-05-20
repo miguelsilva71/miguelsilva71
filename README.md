@@ -10,9 +10,9 @@ Obrigado por visitar meu perfil! 😄
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=miguelsilva71&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.shion.dev/api?username=miguelsilva71&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
-![](https://streak-stats.demolab.com/?user=miguelsilva71&theme=shadow_green&hide_border=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=miguelsilva71&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.shion.dev/api?username=miguelsilva71&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
+![](https://streak-stats.demolab.com/?user=miguelsilva71&theme=dracula&hide_border=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
